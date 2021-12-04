@@ -1,1 +1,1 @@
-http://srvc.mooc-foad.com/grp2/TPMagir/public/
+http://22d2-196-47-133-57.ngrok.io/
